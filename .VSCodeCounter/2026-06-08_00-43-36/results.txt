@@ -1,0 +1,66 @@
+Date : 2026-06-08 00:43:36
+Directory : c:\Users\Abdessamed\Desktop\go-kitchen-sink
+Total : 20 files,  58 codes, 24 comments, 43 blanks, all 125 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Go       |         19 |         42 |         24 |         42 |        108 |
+| Markdown |          1 |         16 |          0 |          1 |         17 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         20 |         58 |         24 |         43 |        125 |
+| . (Files)                                                                 |          1 |         16 |          0 |          1 |         17 |
+| 101                                                                       |         19 |         42 |         24 |         42 |        108 |
+| 101\01-variables                                                          |          1 |         14 |         12 |         11 |         37 |
+| 101\02-constants                                                          |          1 |         12 |          5 |          6 |         23 |
+| 101\03-types                                                              |          1 |         16 |          7 |          9 |         32 |
+| 101\04-conditionals                                                       |          1 |          0 |          0 |          1 |          1 |
+| 101\05-loops                                                              |          1 |          0 |          0 |          1 |          1 |
+| 101\06-arrays                                                             |          1 |          0 |          0 |          1 |          1 |
+| 101\07-slices                                                             |          1 |          0 |          0 |          1 |          1 |
+| 101\08-maps                                                               |          1 |          0 |          0 |          1 |          1 |
+| 101\09-functions                                                          |          1 |          0 |          0 |          1 |          1 |
+| 101\10-methods                                                            |          1 |          0 |          0 |          1 |          1 |
+| 101\11-pointers                                                           |          1 |          0 |          0 |          1 |          1 |
+| 101\12-structs                                                            |          1 |          0 |          0 |          1 |          1 |
+| 101\13-interfaces                                                         |          1 |          0 |          0 |          1 |          1 |
+| 101\14-error-handling                                                     |          1 |          0 |          0 |          1 |          1 |
+| 101\15-packages                                                           |          1 |          0 |          0 |          1 |          1 |
+| 101\16-goroutines                                                         |          1 |          0 |          0 |          1 |          1 |
+| 101\17-channels                                                           |          1 |          0 |          0 |          1 |          1 |
+| 101\18-generics                                                           |          1 |          0 |          0 |          1 |          1 |
+| 101\19-context                                                            |          1 |          0 |          0 |          1 |          1 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\01-variables\main.go      | Go       |         14 |         12 |         11 |         37 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\02-constants\main.go      | Go       |         12 |          5 |          6 |         23 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\03-types\main.go          | Go       |         16 |          7 |          9 |         32 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\04-conditionals\main.go   | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\05-loops\main.go          | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\06-arrays\main.go         | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\07-slices\main.go         | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\08-maps\main.go           | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\09-functions\main.go      | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\10-methods\main.go        | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\11-pointers\main.go       | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\12-structs\main.go        | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\13-interfaces\main.go     | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\14-error-handling\main.go | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\15-packages\main.go       | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\16-goroutines\main.go     | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\17-channels\main.go       | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\18-generics\main.go       | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\101\19-context\main.go        | Go       |          0 |          0 |          1 |          1 |
+| c:\Users\Abdessamed\Desktop\go-kitchen-sink\index.md                      | Markdown |         16 |          0 |          1 |         17 |
+| Total                                                                     |          |         58 |         24 |         43 |        125 |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
